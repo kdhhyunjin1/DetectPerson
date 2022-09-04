@@ -1,0 +1,54 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.17/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCUDAInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseImplicitLinkInfo.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CheckLanguage.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/NVIDIA-CUDA.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindOpenMP.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-NVIDIA-CUDA.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/3.17.1/CMakeCCompiler.cmake
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/3.17.1/CMakeCUDACompiler.cmake
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/3.17.1/CMakeCXXCompiler.cmake
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/3.17.1/CMakeRCCompiler.cmake
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/3.17.1/CMakeSystem.cmake
+C:/Users/KwonDongHyung/darknet-master/CMakeLists.txt
+C:/Users/KwonDongHyung/darknet-master/DarknetConfig.cmake.in
+C:/Users/KwonDongHyung/darknet-master/cmake/Modules/FindCUDNN.cmake
+C:/Users/KwonDongHyung/darknet-master/cmake/Modules/FindPThreads_windows.cmake
+C:/Users/KwonDongHyung/darknet-master/cmake/Modules/FindStb.cmake
+C:/Users/KwonDongHyung/darknet-master/detect_cuda_compute_capabilities.cu
+C:/Users/KwonDongHyung/darknet-master/src/version.h.in
+C:/Users/KwonDongHyung/opencv/build/OpenCVConfig-version.cmake
+C:/Users/KwonDongHyung/opencv/build/OpenCVConfig.cmake
+C:/Users/KwonDongHyung/opencv/build/x64/vc15/lib/OpenCVConfig.cmake
+C:/Users/KwonDongHyung/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake
+C:/Users/KwonDongHyung/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake
+C:/Users/KwonDongHyung/opencv/build/x64/vc15/lib/OpenCVModules.cmake

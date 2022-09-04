@@ -1,0 +1,6 @@
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/dark.dir
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/uselib.dir
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/INSTALL.dir
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/darknet.dir
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/KwonDongHyung/darknet-master/CMakeFiles/ZERO_CHECK.dir
